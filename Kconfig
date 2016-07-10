@@ -1,0 +1,2 @@
+config TREGA_SLABALLOCDRV
+	tristate "Sample Slab Alloc Driver exercise - char"
